@@ -12,3 +12,10 @@
 <a href="https://github.com/vinnyfs89">
     <img width="50%" align="right" width="50%" alt="CarlosRobertoMedeiros github stats" src="https://github-readme-stats.vercel.app/api?username=marciogleik&show_icons=true&hide_border=true" />
 </a>
+
+**Technologies:**
+- **Backend** 
+  - Java
+
+- **Front End**
+  - React
