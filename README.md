@@ -9,7 +9,7 @@
 
 
 
-![Gleik's github stats](https://github-readme-stats.vercel.app/api?username=Diego-rosas&show_icons=true&theme=tokyonight)
+![Gleik's github stats](https://github-readme-stats.vercel.app/api?username=marciogleik&show_icons=true&theme=tokyonight)
 
 [![GitHub Followers](https://img.shields.io/github/followers/marciogleik?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/OtacilioN)
-[![Profile Views Counter](https://komarev.com/ghpvc/?username=Marcio-Gleik&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Profile Views Counter](https://komarev.com/ghpvc/?username=marciogleik&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
