@@ -2,7 +2,7 @@
 
 # Hi, I'm Márcio Gleik 👋
 
-**Systems Analyst | Java & Spring Boot Developer**
+**Systems Analyst | Full Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marciogleikdev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devgleik@gmail.com)
@@ -19,6 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Backend**
 
@@ -43,8 +44,9 @@
 
 <div align="center">
 
-![Gleik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciogleik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=marciogleik&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marciogleik&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogleik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/marciogleik)
 
 [![GitHub Followers](https://img.shields.io/github/followers/marciogleik?style=for-the-badge&labelColor=0D0D0D&logo=github&logoColor=white&label=Followers)](https://github.com/marciogleik)
 
