@@ -1,24 +1,34 @@
-# Hi There, I'm Marcio Gleik 👋
-- 🌱 I’m a systems analyst.
-  
-- **Tecnologias:**
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+<div align="center">
 
-  
-- 📫 How to reach me ...
+# Hi, I'm Márcio Gleik 👋
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciogleikdev/)](https://www.linkedin.com/in/marciogleikdev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devgleik@gmail.com)](mailto:devgleik@gmail.com)
+**Systems Analyst | Java & Spring Boot Developer**
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marciogleikdev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devgleik@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=marciogleik&color=0A66C2&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
+</div>
 
+---
 
-![Gleik's github stats](https://github-readme-stats.vercel.app/api?username=marciogleik&show_icons=true&theme=tokyonight)
+### 🛠️ Technologies & Tools
 
-[![GitHub Followers](https://img.shields.io/github/followers/marciogleik?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/OtacilioN)
-[![Profile Views Counter](https://komarev.com/ghpvc/?username=marciogleik&color=blue)](https://github.com/antonkomarev/github-profile-views-counter)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Gleik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciogleik&show_icons=true&theme=tokyonight&hide_border=true)
+
+[![GitHub Followers](https://img.shields.io/github/followers/marciogleik?style=for-the-badge&labelColor=0D0D0D&logo=github&logoColor=white&label=Followers)](https://github.com/marciogleik)
+
+</div>
