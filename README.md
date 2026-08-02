@@ -1,53 +1,48 @@
-<div align="center">
+# Olá, eu sou o Marcio Gleik 👋
 
-# Hi, I'm Márcio Gleik 👋
+Desenvolvedor Full Stack de 22 anos, atuando de ponta a ponta na concepção, arquitetura e desenvolvimento de plataformas web e sistemas modernos.
 
-**Systems Analyst | Full Stack Developer**
+## 🚀 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marciogleikdev/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devgleik@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=marciogleik&color=0A66C2&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
-
-</div>
+* 💼 Desenvolvedor Full Stack apaixonado por soluções de alto valor de mercado
+* ⚡ Especialista em aplicações web escaláveis, CRMs, plataformas SaaS e automações inteligentes
+* 🎓 Focado em boas práticas, arquitetura limpa, experiência do usuário (UX) e alta performance
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Tecnologias e Ferramentas
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Frontend**
-
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Backend & Banco de Dados
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Projetos em Destaque
 
-<div align="center">
+### 🚘 [Prime Veículos Platform](https://github.com/marciogleik/prime-veiculos-platform)
+Plataforma full-stack para revendas de veículos com showroom digital, CRM de vendas, BI e atendimento automatizado via IA no WhatsApp.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marciogleik&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 💆 [Painel Marli Cosméticos](https://github.com/marciogleik/Painel-Marli-Cosmeticos)
+Sistema de gestão para clínicas de estética com agendamento, assinatura digital de prontuários, dashboards financeiros e CRM.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciogleik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/marciogleik)
+### 📱 [GleikStore Platform](https://github.com/marciogleik/gleikstore-site)
+Plataforma e-commerce para experiência de compra de iPhones com gestão de garantia em tempo real e assinatura digital de contratos.
 
-[![GitHub Followers](https://img.shields.io/github/followers/marciogleik?style=for-the-badge&labelColor=0D0D0D&logo=github&logoColor=white&label=Followers)](https://github.com/marciogleik)
+### 🏛️ [ASTEO-MT Portal](https://github.com/marciogleik/asteomt-site)
+Portal institucional desenvolvido para gestão de associados, eventos e fortalecimento profissional no estado de Mato Grosso.
 
-</div>
+---
+
+## 📬 Contato
+
+* **Email:** marcio.junioor@gmail.com
+* **GitHub:** [github.com/marciogleik](https://github.com/marciogleik)
