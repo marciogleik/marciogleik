@@ -28,6 +28,9 @@ Desenvolvedor Full Stack de 22 anos, atuando de ponta a ponta na concepção, ar
 
 ## 🌟 Projetos em Destaque
 
+### 🌿 [EcoTroca — Sistema de Reciclagem & Moeda Social](https://github.com/marciogleik/ecotroca)
+Plataforma municipal desenvolvida para a Prefeitura de Água Boa - MT. Gerencia economia circular, reciclagem em escolas, emissão de moeda social (EcoTrocas), resgates via Sicredi, relatórios de impacto ambiental em tempo real e controle de acesso auditado com Supabase RLS.
+
 ### 🚘 [Prime Veículos Platform](https://github.com/marciogleik/prime-veiculos-platform)
 Plataforma full-stack para revendas de veículos com showroom digital, CRM de vendas, BI e atendimento automatizado via IA no WhatsApp.
 
